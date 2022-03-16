@@ -8,3 +8,5 @@ testF_: Croped Imges to fit on the model
 testF__: Resized images
 
 FaceModel.ipynb: Notebook with code
+
+NB: The dataset was too heavy so i just uploaded a sample five images. 

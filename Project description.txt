@@ -1,0 +1,10 @@
+Project Files Description
+
+2025: Dataset of 2025 images to train and test the model
+2025_: Dataset of resized images
+
+testF: Images given to test the model
+testF_: Croped Imges to fit on the model
+testF__: Resized images
+
+FaceModel.ipynb: Notebook with code
